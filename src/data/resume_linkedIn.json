@@ -1,0 +1,207 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Programmer",
+    "picture": "",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "website": "http://johndoe.com",
+    "summary": "Passionate about understanding and solving business problems with data, systems and process. Team player and a successful leader of teams and initiatives to improve business performance through increased revenue or cost reduction. Experienced analyst and builder of data systems to support data delivery and consistent, reliable reporting.
+
+Business:    People Leadership, Initiative Leadership,  Mentoring, Policy & Governance, Marketing.
+
+Data Management:    Business Intelligence, Data Architecture, Master Data Management, Data scrubbing, Creation of Golden records, Blockchain.
+
+Project Management:    BA, Technical writing, Project Management, Agile & Waterfall.
+
+Technical:    Microsoft BI (SSIS SSRS TSQL)  Excel, Tableau, Business Objects, REACT, SPSS, Statistica, Excel,HTML, CSS/ SASS and JavaScript, NodeJS, Express",
+    "location": {
+      "address": "Oppal",
+      "postalCode": "CA 94115",
+      "city": "Oppsal",
+      "countryCode": "Oslo",
+      "region": "Norway"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Sabbatical",
+      "position": "Javascript & React training & Relocation",
+      "website": "",
+      "startDate": "2019-03-05",
+      "endDate": "ongoing",
+      "summary": "Relocating and learning new software development technologies; javascript, Node, MongoDb and REACT and then using these to build a side project which is intended to help people make better decisions based on collaborative research.",
+      "highlights": [""]
+    },
+        {
+      "company": "Intraverse Blockchain Technologies",
+      "position": "Data Manager",
+      "website": "",
+      "startDate": "2018-06-05",
+      "endDate": "2019-03-05",
+      "summary": "Intraverse was a startup aiming to provide blockchain-based solutions to industries. There were two business models that were being explored. The first was to help mining companies gain funding, the second was help brands get closer to their customers through a blockchain enabled proof of authenticity system.
+
+The role involved creating business models and designing test scenarios to test the models using the lean startup framework. The role also involved supporting the funding team with research and analysis, meeting investors to build out requirements and present architectural solutions.",
+      "highlights": [""]
+    },
+        {
+      "company": "Australia Post",
+      "position": "Senior Analyst Contract",
+      "website": "http://australiapost.com.au",
+      "startDate": "2017-11-05",
+      "endDate": "2018-05-05",
+      "summary": "Australia Post was running a company wide system integration project to consolidate legacy systems into a modern efficient flexible new platform. The role involved in working with data to assist with the  by building data consolidation and reporting systems.",
+      "highlights": [""]
+    },
+        {
+      "company": "Antstand",
+      "position": "Founder",
+      "website": "http://australiapost.com.au",
+      "startDate": "2015-10-10",
+      "endDate": "2017-11-05",
+      "summary": "Antstand: Created and launched a product that included the designing and building of websites and the creation of video promotional material. Ran a multichannel marketing campaign that included social media, PPC, email, PR and influencer marketing which generated a social media audience of 16,000, and also television and media coverage.
+
+BlockchainClicks: Designed a new affiliate marketing system concept utilising the blockchain technology in place of closed databases to prevent click fraud.  Assembled a team and successfully pitched the concept and gained initial funding commitments. Created a detailed solution design with the team.",
+      "highlights": [""]
+    },
+      {
+      "company": "Energy Australia",
+      "position": "Campaign Data & Analytics Manager",
+      "website": "http://energyaustralia.com.au",
+      "startDate": "2010-01-05",
+      "endDate": "2015-11-05",
+      "summary": "Key Achievements:
+Managed a seven-person team responsible for data and insight-related support for direct marketing activities at EA, generating roughly $1.2 million per week in new business. Received 16 award nominations for team members within a two-year period. 
+
+Generated one-off savings of $150,000 and $180,000 year-on-year cost reduction through implementation of a new campaign optimisation framework. Built numerous data management systems, reporting marts, systems and processes to support analytical analysis and reporting. Implemented a new data compliance framework later used as the basis for company-wide compliance framework. Successfully developed the business segmentation model. 
+
+Responsibilities:
+Facilitated all aspects of projects, including external data purchasing and management, compliance, campaign reporting and performance optimisation. Ensured all team tasks, such data and data systems delivery, technical campaign design, campaign reporting and insights, and infrastructure development, were completed to deadline. 
+
+Communicated complex opportunities, risks or issues to non-technical parties to facilitate understanding and buy in to various stakeholders from different departments. Guided projects to develop long term capability while simultaneously ensuring BAU delivery. 
+
+Proactively upskilled the technical team to improve understanding of business context, risks and process management. Provided leadership in data strategy to improve processes and refine structures. Improved campaign performance and accuracy of reporting by leading changes in marketing.",
+      "highlights": [""]
+    },  {
+      "company": "Energy Australia",
+      "position": "Analyst",
+  "website": "http://energyaustralia.com.au",
+      "startDate": "2004-10-10",
+      "endDate": "2010-01-05",
+      "summary": "Key Achievements:
+Increased efficiency in 3rd party SQL processes from seven days to a matter of hours. Streamlined exception management and auditing through design of an efficient new fulfilment system. Improved targeting and customer management by successfully leading a segmentation project, and supporting the delivery of a new customer value segmentation. 
+
+Responsibilities:
+Managed technical campaign design and delivery, including designing data flows and data extracts reporting. Assisted in the production of data lists for marketing campaigns by delivering scripting and packages. Independently managed technical campaign design, reporting and insights. Provided advice and support on various data projects including the building of schemas and datasets. Effectively used Microsoft development studio developing SQL scripts, stored procedures, DTS or SSIS packages, Excel SPSS and Business Objects.",
+      "highlights": [""]
+    },  {
+      "company": "South Yorkshire Transportation",
+      "position": "Analyst",
+      "website": "http://australiapost.com.au",
+      "startDate": "2004-01-15",
+      "endDate": "2004-12-05",
+      "summary": "Key Achievements:
+Successfully migrated the reporting infrastructure from Access 97 SQL server to 30 access databases, and managed migration from Access 97 to SQL server. Enabled faster application development by building an effective VBA application. 
+
+Responsibilities:
+Created SQL scripts to support Excel reporting, built reports, and created Access and SQL server databases to support those reports.",
+      "highlights": [""]
+    },
+    {
+      "company": "OSISOFT",
+      "position": "Account Managaer",
+      "website": "http://australiapost.com.au",
+      "startDate": "2002-10-15",
+      "endDate": "2003-05-15",
+      "summary": "Key Achievements:
+Completed a highly-acclaimed marketing plan, which was reviewed for potential application across the international company, designed to take the product into the area of load balancing for the telecoms industry
+
+Responsibilities:
+Acquired new business through effective sales of time series database solutions in the utilities and gas industries, working toward a profit target of $1.1 million. Created technical proposals and presentations.",
+      "highlights": [""]
+    },
+      {
+      "company": "nCode",
+      "position": "Account Managaer",
+      "website": "http://australiapost.com.au",
+      "startDate": "1996-07-01",
+      "endDate": "1999-07-01",
+      "summary": "Key Achievements:
+Employed as an account manager selling engineering IT solutions working mainly with and aerospace Automotive companies. The software was technical in nature and helped companies design more durable products through predictive modelling.
+
+Responsible for sales targets of providing the data analysis software and services for five years to engineering software companies into various engineering marketplaces. Customers included Ford, Lotus, Caterpillar and British Rail.",
+      "highlights": [""]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sheffield Hallam University",
+      "area": "BEng Hons",
+      "studyType": "Bachelor",
+      "startDate": "1992-07-01",
+      "endDate": "1996-07-01",
+      "gpa": "",
+      "courses": [""]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
+}
